@@ -1,0 +1,12 @@
+﻿using Pgvector;
+
+namespace McpServerProject.Entities;
+
+public class MyDemoDocumentRecomendation
+{
+    public Guid Id { get; set; }
+    public string Title { get; set; }
+    public string DocText { get; set; }
+    public Guid DocumentId { get; set; }
+    public Vector Embedding { get; set; }
+}

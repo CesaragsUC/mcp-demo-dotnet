@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="MCP.SemanticKernel/MCPClient.csproj" />
+  <Project Path="McpServerProject/McpServerProject.csproj" />
+</Solution>

@@ -1,0 +1,14 @@
+{
+	"servers": {
+		"my-mcp-server-7aa61461": {
+			"type": "stdio",
+			"command": "dotnet",
+			"args": [
+				"run",
+				"--project",
+				"G:/DevProjetos/AI/MCP-Demos/MCP.SemanticKernel/MCP.SemanticKernel/MCP.SemanticKernel.csproj"
+			]
+		}
+	},
+	"inputs": []
+}

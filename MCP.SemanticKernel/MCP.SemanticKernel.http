@@ -1,0 +1,6 @@
+@MCP.SemanticKernel_HostAddress = http://localhost:5110
+
+GET {{MCP.SemanticKernel_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
